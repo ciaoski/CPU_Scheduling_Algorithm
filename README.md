@@ -164,13 +164,13 @@ cpu-scheduling-simulator/
 ```
 
 >
-> `https://drive.google.com/drive/folders/1PeCkKCMganw0TNYGHbmdvV34UUQfYu7w?usp=drive_link`
+> `https://drive.google.com/file/d/1nUdQmD0l6G-qZizkq-Y7oEF8Ii5_bfwV/view?usp=sharing`
 
 ---
 
 ## Video Demonstration
 
-📹 Watch the full video demonstration here: **https://drive.google.com/drive/folders/1PeCkKCMganw0TNYGHbmdvV34UUQfYu7w?usp=drive_link**
+📹 Watch the full video demonstration here: **https://drive.google.com/file/d/1nUdQmD0l6G-qZizkq-Y7oEF8Ii5_bfwV/view?usp=sharing**
 
 The video covers:
 - Program overview and input demonstration
